@@ -1,0 +1,9 @@
+{
+	"name": "ADFwithGitHubTripti21",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d7598fea-a074-442d-b045-95d83271ddf9",
+		"tenantId": "953bd262-358a-4857-a038-ef5b117abc05"
+	}
+}
